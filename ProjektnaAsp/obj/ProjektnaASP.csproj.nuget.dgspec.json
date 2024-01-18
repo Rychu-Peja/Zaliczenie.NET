@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjektnaASP\\ProjektnaASP\\ProjektnaASP.csproj": {}
+    "E:\\ProjektnaAsp\\ProjektnaASP\\ProjektnaASP.csproj": {}
   },
   "projects": {
-    "E:\\ProjektnaASP\\ProjektnaASP\\ProjektnaASP.csproj": {
+    "E:\\ProjektnaAsp\\ProjektnaASP\\ProjektnaASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjektnaASP\\ProjektnaASP\\ProjektnaASP.csproj",
+        "projectUniqueName": "E:\\ProjektnaAsp\\ProjektnaASP\\ProjektnaASP.csproj",
         "projectName": "ProjektnaASP",
-        "projectPath": "E:\\ProjektnaASP\\ProjektnaASP\\ProjektnaASP.csproj",
+        "projectPath": "E:\\ProjektnaAsp\\ProjektnaASP\\ProjektnaASP.csproj",
         "packagesPath": "C:\\Users\\nikom\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjektnaASP\\ProjektnaASP\\obj\\",
+        "outputPath": "E:\\ProjektnaAsp\\ProjektnaASP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

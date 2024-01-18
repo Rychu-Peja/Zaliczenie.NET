@@ -19,7 +19,6 @@ namespace ProjektnaASP.Data
                 new Category { Id = 1, Name = "Action", DisplayOrder = 1 },
                 new Category { Id = 2, Name = "Fantasy", DisplayOrder = 2 },
                 new Category { Id = 3, Name = "Scifi", DisplayOrder = 3 }
-
                 );   
         }
     }
