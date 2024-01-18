@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZaliczenieNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c75742d6b2ea0e4b392f3b08c91673bbd2f31c6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZaliczenieNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZaliczenieNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
