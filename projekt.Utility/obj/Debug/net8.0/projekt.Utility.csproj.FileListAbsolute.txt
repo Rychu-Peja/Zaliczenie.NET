@@ -1,0 +1,12 @@
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\bin\Debug\net8.0\projekt.Utility.deps.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\bin\Debug\net8.0\projekt.Utility.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\bin\Debug\net8.0\projekt.Utility.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\projekt.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\projekt.Utility.AssemblyInfoInputs.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\projekt.Utility.AssemblyInfo.cs
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\projekt.Utility.csproj.CoreCompileInputs.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\projekt.Utility.sourcelink.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\projekt.Utility.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\refint\projekt.Utility.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\projekt.Utility.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Utility\obj\Debug\net8.0\ref\projekt.Utility.dll

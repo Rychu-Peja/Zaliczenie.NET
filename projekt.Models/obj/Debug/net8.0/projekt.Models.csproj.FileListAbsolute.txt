@@ -1,0 +1,12 @@
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\bin\Debug\net8.0\projekt.Models.deps.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\bin\Debug\net8.0\projekt.Models.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\bin\Debug\net8.0\projekt.Models.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\projekt.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\projekt.Models.AssemblyInfoInputs.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\projekt.Models.AssemblyInfo.cs
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\projekt.Models.csproj.CoreCompileInputs.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\projekt.Models.sourcelink.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\projekt.Models.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\refint\projekt.Models.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\projekt.Models.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\projekt.Models\obj\Debug\net8.0\ref\projekt.Models.dll
