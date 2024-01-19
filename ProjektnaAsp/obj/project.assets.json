@@ -3862,6 +3862,31 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "asp.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
+          "asp.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/asp.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/asp.DataAccess.dll": {}
+        }
+      },
+      "asp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/asp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/asp.Models.dll": {}
+        }
       }
     }
   },
@@ -11267,6 +11292,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "asp.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../asp.DataAccess/asp.DataAccess.csproj",
+      "msbuildProject": "../asp.DataAccess/asp.DataAccess.csproj"
+    },
+    "asp.Models/1.0.0": {
+      "type": "project",
+      "path": "../asp.Models/asp.Models.csproj",
+      "msbuildProject": "../asp.Models/asp.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11274,7 +11309,8 @@
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.11"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.11",
+      "asp.DataAccess >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11308,7 +11344,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.DataAccess\\asp.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.DataAccess\\asp.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,12 @@
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\bin\Debug\net7.0\asp.Utility.deps.json
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\bin\Debug\net7.0\asp.Utility.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\bin\Debug\net7.0\asp.Utility.pdb
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.AssemblyInfoInputs.cache
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.AssemblyInfo.cs
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.csproj.CoreCompileInputs.cache
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.sourcelink.json
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\refint\asp.Utility.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.pdb
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\ref\asp.Utility.dll
