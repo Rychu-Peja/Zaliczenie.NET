@@ -9,75 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjektnaASP
 build_property.RootNamespace = ProjektnaASP
-build_property.ProjectDir = C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\nikom\source\repos\Zaliczenie.NET\ProjektnaAsp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP
+build_property.MSBuildProjectDirectory = C:\Users\nikom\source\repos\Zaliczenie.NET\ProjektnaAsp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Admin/Views/Category/Create.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Admin/Views/Category/Delete.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Admin/Views/Category/Edit.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Admin/Views/Category/Index.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/Product/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcHNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Customer/Views/Home/Index.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Customer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Customer/Views/Home/Privacy.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Customer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Customer/Views/_ViewImports.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Customer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Areas/Customer/Views/_ViewStart.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Areas/Customer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Views/Shared/Error.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Views/Shared/_Notification.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Views/_ViewImports.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Views/_ViewStart.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kubak/OneDrive/Pulpit/szkola/3 semestr/projekt .net/Zaliczenie.NET/ProjektnaASP/Views/Shared/_Layout.cshtml]
+[C:/Users/nikom/source/repos/Zaliczenie.NET/ProjektnaAsp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hm2ylpvlz9

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj": {}
+    "C:\\Users\\nikom\\source\\repos\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj": {
+    "C:\\Users\\nikom\\source\\repos\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\nikom\\source\\repos\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj",
         "projectName": "asp.Utility",
-        "projectPath": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj",
-        "packagesPath": "C:\\Users\\kubak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.Utility\\obj\\",
+        "projectPath": "C:\\Users\\nikom\\source\\repos\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj",
+        "packagesPath": "C:\\Users\\nikom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikom\\source\\repos\\Zaliczenie.NET\\asp.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kubak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nikom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

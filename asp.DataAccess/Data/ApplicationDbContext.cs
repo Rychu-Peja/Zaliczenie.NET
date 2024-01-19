@@ -1,10 +1,10 @@
-﻿using asp.Models;
+using asp.Models;
 using Microsoft.EntityFrameworkCore;
-//using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ProjektnaASP.Data
 {
-    public class ApplicationDbContext: DbContext
+    public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
@@ -31,7 +31,8 @@ namespace ProjektnaASP.Data
                    ListPrice =45,
                    Price = 45,
                    Price5 = 40,
-                   
+                   CategoryId =1,
+                   ImageUrl = ""
                },
                new Product
                {
@@ -41,6 +42,8 @@ namespace ProjektnaASP.Data
                    ListPrice = 40,
                    Price = 40,
                    Price5 = 35,
+                   CategoryId = 2,
+                   ImageUrl = ""
                },
                new Product
                {
@@ -50,7 +53,9 @@ namespace ProjektnaASP.Data
                    ListPrice = 55,
                    Price = 55,
                    Price5 = 50,
-                  
+                   CategoryId = 3,
+                   ImageUrl = ""
+
                }
           
                );

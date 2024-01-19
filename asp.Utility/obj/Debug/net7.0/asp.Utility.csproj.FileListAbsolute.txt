@@ -10,3 +10,15 @@ C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\refint\asp.Utility.dll
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.pdb
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\ref\asp.Utility.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\bin\Debug\net7.0\asp.Utility.deps.json
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\bin\Debug\net7.0\asp.Utility.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\bin\Debug\net7.0\asp.Utility.pdb
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.csproj.AssemblyReference.cache
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.AssemblyInfoInputs.cache
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.AssemblyInfo.cs
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.csproj.CoreCompileInputs.cache
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\refint\asp.Utility.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.pdb
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\ref\asp.Utility.dll

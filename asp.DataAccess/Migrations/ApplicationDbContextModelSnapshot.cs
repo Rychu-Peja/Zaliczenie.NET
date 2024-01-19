@@ -70,7 +70,14 @@ namespace ProjektnaASP.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -89,13 +96,17 @@ namespace ProjektnaASP.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CategoryId");
+
                     b.ToTable("Products");
 
                     b.HasData(
                         new
                         {
                             Id = 1,
+                            CategoryId = 1,
                             Description = "\"Star Wars\" is a space opera about the battle between the Jedi and the Sith. Centered around characters like Luke Skywalker and Darth Vader, the saga explores themes of family and the eternal struggle between good and evil.",
+                            ImageUrl = "",
                             ListPrice = 45.0,
                             Price = 45.0,
                             Price5 = 40.0,
@@ -104,7 +115,9 @@ namespace ProjektnaASP.Migrations
                         new
                         {
                             Id = 2,
+                            CategoryId = 2,
                             Description = "\"The Hobbit\" is a fantasy novel by J.R.R. Tolkien, following the journey of Bilbo Baggins as he accompanies a group of dwarves on a quest to reclaim their homeland. Filled with magical creatures, epic adventures, and the discovery of a powerful ring, the story sets the stage for the events of \"The Lord of the Rings\" trilogy.",
+                            ImageUrl = "",
                             ListPrice = 40.0,
                             Price = 40.0,
                             Price5 = 35.0,
@@ -113,12 +126,25 @@ namespace ProjektnaASP.Migrations
                         new
                         {
                             Id = 3,
+                            CategoryId = 3,
                             Description = "\r\n\"Indiana Jones\" is an action-adventure film series created by George Lucas and Steven Spielberg. The stories follow the adventures of Dr. Indiana Jones, an archaeologist and professor, as he travels the globe in pursuit of mystical artifacts. Known for its thrilling action sequences and iconic character, the franchise captures the essence of classic adventure storytelling",
+                            ImageUrl = "",
                             ListPrice = 55.0,
                             Price = 55.0,
                             Price5 = 50.0,
                             Title = "Vanish in the Sunset"
                         });
+                });
+
+            modelBuilder.Entity("asp.Models.Product", b =>
+                {
+                    b.HasOne("asp.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }
