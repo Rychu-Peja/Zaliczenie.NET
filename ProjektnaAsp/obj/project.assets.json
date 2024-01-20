@@ -12496,23 +12496,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fryde\\.nuget\\packages\\": {},
+    "C:\\Users\\kubak\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fryde\\Desktop\\.NET\\Zaliczenie\\ProjektnaASP\\ProjektnaASP.csproj",
+      "projectUniqueName": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\ProjektnaASP.csproj",
       "projectName": "ProjektnaASP",
-      "projectPath": "C:\\Users\\fryde\\Desktop\\.NET\\Zaliczenie\\ProjektnaASP\\ProjektnaASP.csproj",
-      "packagesPath": "C:\\Users\\fryde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fryde\\Desktop\\.NET\\Zaliczenie\\ProjektnaASP\\obj\\",
+      "projectPath": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\ProjektnaASP.csproj",
+      "packagesPath": "C:\\Users\\kubak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\fryde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kubak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -12527,8 +12527,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\fryde\\Desktop\\.NET\\Zaliczenie\\asp.DataAccess\\asp.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\fryde\\Desktop\\.NET\\Zaliczenie\\asp.DataAccess\\asp.DataAccess.csproj"
+            "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.DataAccess\\asp.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.DataAccess\\asp.DataAccess.csproj"
             }
           }
         }

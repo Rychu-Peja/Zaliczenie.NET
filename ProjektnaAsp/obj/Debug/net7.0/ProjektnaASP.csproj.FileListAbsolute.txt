@@ -852,3 +852,6 @@ C:\Users\fryde\Desktop\.NET\Zaliczenie\ProjektnaASP\obj\Debug\net7.0\scopedcss\p
 C:\Users\fryde\Desktop\.NET\Zaliczenie\ProjektnaASP\obj\Debug\net7.0\ProjektnaASP.csproj.CopyComplete
 C:\Users\fryde\Desktop\.NET\Zaliczenie\ProjektnaASP\obj\Debug\net7.0\ProjektnaASP.genruntimeconfig.cache
 C:\Users\fryde\Desktop\.NET\Zaliczenie\ProjektnaASP\obj\Debug\net7.0\ref\ProjektnaASP.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\obj\Debug\net7.0\ProjektnaASP.MvcApplicationPartsAssemblyInfo.cs

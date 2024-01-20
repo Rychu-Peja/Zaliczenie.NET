@@ -35,3 +35,4 @@ C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.dl
 C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\refint\asp.Models.dll
 C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.pdb
 C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\ref\asp.Models.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Models\obj\Debug\net7.0\asp.Models.csproj.AssemblyReference.cache
