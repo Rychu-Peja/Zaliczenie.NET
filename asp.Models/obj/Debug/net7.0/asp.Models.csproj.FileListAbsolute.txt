@@ -22,3 +22,16 @@ C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Models\obj\Debug\net7.0\asp.Model
 C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Models\obj\Debug\net7.0\refint\asp.Models.dll
 C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Models\obj\Debug\net7.0\asp.Models.pdb
 C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Models\obj\Debug\net7.0\ref\asp.Models.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\bin\Debug\net7.0\asp.Models.deps.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\bin\Debug\net7.0\asp.Models.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\bin\Debug\net7.0\asp.Models.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.csproj.AssemblyReference.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.AssemblyInfoInputs.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.AssemblyInfo.cs
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.csproj.CoreCompileInputs.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.sourcelink.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\refint\asp.Models.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\asp.Models.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.Models\obj\Debug\net7.0\ref\asp.Models.dll

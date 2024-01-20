@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nikom\\.nuget\\packages\\": {},
+    "C:\\Users\\fryde\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikom\\source\\repos\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\fryde\\Desktop\\.NET\\Zaliczenie\\asp.Utility\\asp.Utility.csproj",
       "projectName": "asp.Utility",
-      "projectPath": "C:\\Users\\nikom\\source\\repos\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj",
-      "packagesPath": "C:\\Users\\nikom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikom\\source\\repos\\Zaliczenie.NET\\asp.Utility\\obj\\",
+      "projectPath": "C:\\Users\\fryde\\Desktop\\.NET\\Zaliczenie\\asp.Utility\\asp.Utility.csproj",
+      "packagesPath": "C:\\Users\\fryde\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fryde\\Desktop\\.NET\\Zaliczenie\\asp.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nikom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fryde\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
