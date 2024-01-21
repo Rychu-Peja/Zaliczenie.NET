@@ -881,3 +881,5 @@ C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\Proj
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\asp.Utility.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\asp.Utility.pdb

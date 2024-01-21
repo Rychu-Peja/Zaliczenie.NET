@@ -22,3 +22,4 @@ C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Util
 C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\refint\asp.Utility.dll
 C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.pdb
 C:\Users\nikom\source\repos\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\ref\asp.Utility.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.Utility\obj\Debug\net7.0\asp.Utility.csproj.AssemblyReference.cache

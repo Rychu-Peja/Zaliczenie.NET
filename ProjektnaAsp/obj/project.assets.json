@@ -4450,13 +4450,27 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
+          "Microsoft.Extensions.Identity.Stores": "7.0.0"
         },
         "compile": {
           "bin/placeholder/asp.Models.dll": {}
         },
         "runtime": {
           "bin/placeholder/asp.Models.dll": {}
+        }
+      },
+      "asp.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/asp.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/asp.Utility.dll": {}
         }
       }
     }
@@ -12062,6 +12076,11 @@
       "type": "project",
       "path": "../asp.Models/asp.Models.csproj",
       "msbuildProject": "../asp.Models/asp.Models.csproj"
+    },
+    "asp.Utility/1.0.0": {
+      "type": "project",
+      "path": "../asp.Utility/asp.Utility.csproj",
+      "msbuildProject": "../asp.Utility/asp.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12071,7 +12090,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.0",
-      "asp.DataAccess >= 1.0.0"
+      "asp.DataAccess >= 1.0.0",
+      "asp.Utility >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12108,6 +12128,9 @@
           "projectReferences": {
             "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.DataAccess\\asp.DataAccess.csproj": {
               "projectPath": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.DataAccess\\asp.DataAccess.csproj"
+            },
+            "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj": {
+              "projectPath": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\asp.Utility\\asp.Utility.csproj"
             }
           }
         }

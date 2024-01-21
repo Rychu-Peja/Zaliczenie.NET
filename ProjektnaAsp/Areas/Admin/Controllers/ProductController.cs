@@ -1,6 +1,8 @@
 using asp.DataAccess.Repository.IRepository;
 using asp.Models;
 using asp.Models.ViewModels;
+using asp.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using ProjektnaASP.Data;
@@ -8,6 +10,7 @@ using ProjektnaASP.Data;
 namespace ProjektnaASP.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

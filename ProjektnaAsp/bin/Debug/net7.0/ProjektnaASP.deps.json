@@ -13,7 +13,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.0",
-          "asp.DataAccess": "1.0.0"
+          "asp.DataAccess": "1.0.0",
+          "asp.Utility": "1.0.0"
         },
         "runtime": {
           "ProjektnaASP.dll": {}
@@ -2634,10 +2635,19 @@
       },
       "asp.Models/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0"
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
+          "Microsoft.Extensions.Identity.Stores": "7.0.0"
         },
         "runtime": {
           "asp.Models.dll": {}
+        }
+      },
+      "asp.Utility/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "7.0.0"
+        },
+        "runtime": {
+          "asp.Utility.dll": {}
         }
       }
     }
@@ -4222,6 +4232,11 @@
       "sha512": ""
     },
     "asp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "asp.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

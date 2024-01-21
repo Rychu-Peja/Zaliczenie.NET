@@ -1,5 +1,7 @@
 using asp.DataAccess.Repository.IRepository;
 using asp.Models;
+using asp.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProjektnaASP.Data;
 
@@ -7,6 +9,7 @@ using ProjektnaASP.Data;
 namespace ProjektnaASP.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
