@@ -13,8 +13,76 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\0cd24e6c-5230-4e69-b674-3f5d88caed1d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0cd24e6c-5230-4e69-b674-3f5d88caed1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\253b0962-4699-47e5-8e7e-3938ac0cbd21.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\253b0962-4699-47e5-8e7e-3938ac0cbd21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\4147643c-eb9c-4e2b-be3b-820c16861831.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4147643c-eb9c-4e2b-be3b-820c16861831.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\4ea38712-78bc-43e7-a283-99f29bae9d01.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4ea38712-78bc-43e7-a283-99f29bae9d01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\6633dc36-08cb-4401-a5ca-0dc02100d30b.png",
+      "PackagePath": "staticwebassets\\images\\product\\6633dc36-08cb-4401-a5ca-0dc02100d30b.png"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\7bd1cc2b-c0a0-4765-b324-908809bef412.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\7bd1cc2b-c0a0-4765-b324-908809bef412.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\8b06daa4-da2e-4972-938e-33d1c1c06b64.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8b06daa4-da2e-4972-938e-33d1c1c06b64.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\8e006faa-07c0-414a-8d9a-c460fbdd228c.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\8e006faa-07c0-414a-8d9a-c460fbdd228c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\935d4c52-7722-4efb-8ee8-dd6b56144981.png",
+      "PackagePath": "staticwebassets\\images\\product\\935d4c52-7722-4efb-8ee8-dd6b56144981.png"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\aa333d2d-06a8-4e0b-a366-a17540f237fb.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\aa333d2d-06a8-4e0b-a366-a17540f237fb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\c0e91e46-449d-493a-8558-66529c30a703.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c0e91e46-449d-493a-8558-66529c30a703.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\ce60bd17-d572-4767-9634-6868e9550eb8.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\ce60bd17-d572-4767-9634-6868e9550eb8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\d01fb303-6f21-4aa1-aad0-e76b2579b6f0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d01fb303-6f21-4aa1-aad0-e76b2579b6f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\de3528b1-8584-4e79-92b1-555950b619a3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\de3528b1-8584-4e79-92b1-555950b619a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\e0a9c2fc-ff0f-4e32-8f61-c8150ad01cc8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e0a9c2fc-ff0f-4e32-8f61-c8150ad01cc8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\ef680e73-b19b-47fe-880d-eb1a557552d6.png",
+      "PackagePath": "staticwebassets\\images\\product\\ef680e73-b19b-47fe-880d-eb1a557552d6.png"
+    },
+    {
       "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\f2071d57-b840-427c-a0ef-ad12dc36d434.png",
       "PackagePath": "staticwebassets\\images\\product\\f2071d57-b840-427c-a0ef-ad12dc36d434.png"
+    },
+    {
+      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\fff7ef3a-f867-4a5a-9fa6-270ea7025914.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fff7ef3a-f867-4a5a-9fa6-270ea7025914.jpg"
     },
     {
       "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\js\\product.js",

@@ -5,7 +5,6 @@ using asp.Utility;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using ProjektnaASP.Data;
 
 namespace ProjektnaASP.Areas.Admin.Controllers
 {
@@ -14,6 +13,7 @@ namespace ProjektnaASP.Areas.Admin.Controllers
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+
         private readonly IWebHostEnvironment _webHostEnvironment;
         public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment webHostEnvironment)
         {

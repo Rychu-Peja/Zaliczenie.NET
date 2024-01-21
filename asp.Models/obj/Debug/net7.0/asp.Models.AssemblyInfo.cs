@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("asp.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfedc7616d98e94d37cd5b48ad7b5b13dfe110c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96a88edb88a0abf02ada685412edf9bc57fce1e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("asp.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("asp.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
