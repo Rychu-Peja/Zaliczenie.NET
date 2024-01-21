@@ -1,0 +1,53 @@
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.AssemblyInfo.cs
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.sourcelink.json
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.deps.json
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.runtimeconfig.json
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.pdb
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.Models.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.Models.pdb
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.CopyComplete
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\refint\asp.DataAccess.dll
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.pdb
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.genruntimeconfig.cache
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\ref\asp.DataAccess.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.deps.json
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.runtimeconfig.json
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.pdb
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.Models.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\bin\Debug\net7.0\asp.Models.pdb
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.AssemblyInfo.cs
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.CopyComplete
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\refint\asp.DataAccess.dll
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.pdb
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.genruntimeconfig.cache
+C:\Users\nikom\source\repos\Zaliczenie.NET\asp.DataAccess\obj\Debug\net7.0\ref\asp.DataAccess.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.deps.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.runtimeconfig.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\bin\Debug\net7.0\asp.DataAccess.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\bin\Debug\net7.0\asp.Models.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\bin\Debug\net7.0\asp.Models.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.AssemblyInfo.cs
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.sourcelink.json
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.csproj.CopyComplete
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\refint\asp.DataAccess.dll
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.pdb
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\asp.DataAccess.genruntimeconfig.cache
+C:\Users\fryde\Desktop\.NET\Zaliczenie\asp.DataAccess\obj\Debug\net7.0\ref\asp.DataAccess.dll
