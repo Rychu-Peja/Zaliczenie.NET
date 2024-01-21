@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jGZ/39UxZE2T2OkculIsA4WII65QHFkII5BMX02y6pI=",
+  "Hash": "iGI69CbdZ62Krgr4Gvi44SL6I3Y86JbF/ZN2pEpaDFs=",
   "Source": "ProjektnaASP",
   "BasePath": "_content/ProjektnaASP",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images\\product\\f2071d57-b840-427c-a0ef-ad12dc36d434.png",
+      "SourceId": "ProjektnaASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\",
+      "BasePath": "_content/ProjektnaASP",
+      "RelativePath": "images/product/f2071d57-b840-427c-a0ef-ad12dc36d434.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\f2071d57-b840-427c-a0ef-ad12dc36d434.png"
     },
     {
       "Identity": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\js\\product.js",

@@ -24,8 +24,8 @@
                 <tr>
                     <th>Title</th>
                     <th>Description</th>
-                    <th>ListPrice</th>
                     <th>Price</th>
+                    <th>Category</th>
                 </tr>
             </thead>
             <tbody>
@@ -37,10 +37,10 @@
                             @obj.Description
                         </td>
                         <td>
-                            @obj.ListPrice
+                            @obj.Price
                         </td>
                         <td>
-                            @obj.Price
+                            @obj.Category.Name
                         </td>
                         <td>
                             <div class="w-75 btn-group" role="group">
