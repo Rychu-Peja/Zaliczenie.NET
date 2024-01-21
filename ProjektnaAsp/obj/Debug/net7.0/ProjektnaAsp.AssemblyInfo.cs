@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjektnaASP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfc36f7ad2562188c9231826204ae3a660439ca8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e9a9f2d1982c5b218d8e51ef5e5d561e98c168")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjektnaASP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjektnaASP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
