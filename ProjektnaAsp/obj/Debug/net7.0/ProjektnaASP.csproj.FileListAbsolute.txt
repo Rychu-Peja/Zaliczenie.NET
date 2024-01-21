@@ -855,3 +855,4 @@ C:\Users\fryde\Desktop\.NET\Zaliczenie\ProjektnaASP\obj\Debug\net7.0\ref\Projekt
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\obj\Debug\net7.0\ProjektnaASP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kubak\OneDrive\Pulpit\szkola\3 semestr\projekt .net\Zaliczenie.NET\ProjektnaASP\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
