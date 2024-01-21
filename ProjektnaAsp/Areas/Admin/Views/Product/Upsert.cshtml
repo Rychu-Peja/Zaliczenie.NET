@@ -4,34 +4,25 @@
 	<div class="card-header bg-secondary bg-gradient ml-0 py-3">
 		<div class="row">
 			<div class="col-12 text-center">
-				<h2 class="text-white py-2">@(Model.Product.Id!=0?"Update":"Create") Product</h2>
+				<h2 class="text-white py-2">@(Model.Product.Id != 0 ? "Update" : "Create") Product</h2>
+			</div>
 		</div>
-		</div>
-    </div>
-    <div class="card-body p-4">
-        <form method="post" class="row" enctype="multipart/form-data">
-            <div class="border p-3">
+	</div>
+	<div class="card-body p-4">
+		<form method="post" class="row" enctype="multipart/form-data">
+			<div class="border p-3">
 				<input asp-for="Product.Id" hidden />
-				<input asp-for="Product.ImageUrl" hidden />
-                @*<div asp-validation-summary="ModelOnly"></div>*@
-				<div class="row">
-					<div class="col-10">
-
-					</div>
-					<div class="col-2">
-
-					</div>
-				</div>
-                <div class="form-floating py-2 col-12">
+				@*<div asp-validation-summary="ModelOnly"></div>*@
+				<div class="form-floating py-2 col-12">
 					<input asp-for="@Model.Product.Title" class="form-control border-0 shadow" />
 					<label asp-for="@Model.Product.Title" class="ms-2"></label>
 					<span asp-validation-for="@Model.Product.Title" class="text-danger"></span>
-                </div>
-                <div class="form-floating py-2 col-12">
+				</div>
+				<div class="form-floating py-2 col-12">
 					<input asp-for="@Model.Product.Description" class="form-control border-0 shadow" />
 					<label asp-for="@Model.Product.Description" class="ms-2"></label>
 					<span asp-validation-for="@Model.Product.Description" class="text-danger"></span>
-                </div>
+				</div>
 				<div class="form-floating py-2 col-12">
 					<input asp-for="@Model.Product.ListPrice" class="form-control border-0 shadow" />
 					<label asp-for="@Model.Product.ListPrice" class="ms-2"></label>
@@ -41,7 +32,7 @@
 					<input asp-for="Product.Price" class="form-control border-0 shadow" />
 					<label asp-for="Product.Price" class="ms-2"></label>
 					<span asp-validation-for="Product.Price" class="text-danger"></span>
-                </div>
+				</div>
 				<div class="form-floating py-2 col-12">
 					<input asp-for="Product.Price5" class="form-control border-0 shadow" />
 					<label asp-for="Product.Price5" class="ms-2"></label>
@@ -55,15 +46,15 @@
 					<span asp-validation-for="Product.CategoryId" class="text-danger"></span>
 				</div>
 				<div class="form-floating py-2 col-12">
-					<input type="file" class="form-control border-0 shadow" />
+					<input type="file" name="file" class="form-control border-0 shadow" />
 					<label asp-for="Product.ImageUrl" class="ms-2"></label>
 				</div>
 
 
 
 				<div class="row pt-2">
-                    <div class="col-6 col-md-3">
-						@if(Model.Product.Id != 0)
+					<div class="col-6 col-md-3">
+						@if (Model.Product.Id != 0)
 						{
 							<button type="submit" class="btn btn-primary form-control">Update</button>
 						}
@@ -71,25 +62,22 @@
 						{
 							<button type="submit" class="btn btn-primary form-control">Create</button>
 						}
-                    </div>
-                    <div class="col-6 col-md-3">
-                        <a asp-controller="Product" asp-action="Index" class="btn btn-outline-primary border  form-control">
-                            Back to List
-                        </a>
-                    </div>
-					<div class="col-2">
-						<img src="@Model.Product.ImageUrl" width="100%" 
-								style="border-radius:5px; border:1px solid #bbb9b9"/>
 					</div>
-                </div>
-            </div>
+					<div class="col-6 col-md-3">
+						<a asp-controller="Product" asp-action="Index" class="btn btn-outline-primary border  form-control">
+							Back to List
+						</a>
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
 
-        </form>
-    </div>
 </div>
 
 @section Scripts {
 	@{
 		<partial name="_ValidationScriptsPartial" />
+
 	}
 }

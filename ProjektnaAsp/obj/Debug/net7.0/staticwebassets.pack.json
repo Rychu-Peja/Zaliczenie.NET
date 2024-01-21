@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images",
-      "PackagePath": "staticwebassets"
-    },
-    {
       "Id": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

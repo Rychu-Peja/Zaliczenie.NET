@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iVezq0F9U0Et5RB0aaZL+Dfaep6ESZcGdlqMvnp/OZc=",
+  "Hash": "jGZ/39UxZE2T2OkculIsA4WII65QHFkII5BMX02y6pI=",
   "Source": "ProjektnaASP",
   "BasePath": "_content/ProjektnaASP",
   "Mode": "Default",
@@ -91,25 +91,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\images",
-      "SourceId": "ProjektnaASP",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\",
-      "BasePath": "_content/ProjektnaASP",
-      "RelativePath": "images",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images"
     },
     {
       "Identity": "C:\\Users\\kubak\\OneDrive\\Pulpit\\szkola\\3 semestr\\projekt .net\\Zaliczenie.NET\\ProjektnaASP\\wwwroot\\js\\product.js",

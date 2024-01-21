@@ -5,12 +5,11 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using asp.DataAccess.Repository.IRepository;
-using Microsoft.AspNetCore.Routing.Template;
 using Microsoft.EntityFrameworkCore;
 using ProjektnaASP.Data;
 
-namespace asp.DataAccess.Repository 
-{ 
+namespace asp.DataAccess.Repository
+{
     public class Repository<T> : IRepository<T> where T : class
     {
         private readonly ApplicationDbContext _db;
@@ -31,23 +30,23 @@ namespace asp.DataAccess.Repository
         {
             IQueryable<T> query = dbSet;
             query = query.Where(filter);
-			if (string.IsNullOrEmpty(includeProperties))
-			{
-				foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
-				{
-					query = query.Include(includeProp);
-				}
-			}
-			return query.FirstOrDefault();
+            if (!string.IsNullOrEmpty(includeProperties))
+            {
+                foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProp);
+                }
+            }
+            return query.FirstOrDefault();
 
         }
 
         public IEnumerable<T> GetAll(string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
-            if(string.IsNullOrEmpty(includeProperties))
+            if (!string.IsNullOrEmpty(includeProperties))
             {
-                foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries)) 
+                foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
                     query = query.Include(includeProp);
                 }
