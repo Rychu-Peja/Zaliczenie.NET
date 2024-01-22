@@ -25,7 +25,8 @@ namespace asp.DataAccess.Repository
                 objFromDb.Title = obj.Title;
 				objFromDb.Price = obj.Price;
             	objFromDb.ListPrice = obj.ListPrice;
-				objFromDb.Description = obj.Description;
+                objFromDb.Price5 = obj.Price5;
+                objFromDb.Description = obj.Description;
 				objFromDb.CategoryId = obj.CategoryId;
 			    if(obj.ImageUrl != null)
                 {
